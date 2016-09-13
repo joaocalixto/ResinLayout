@@ -1,7 +1,8 @@
 # ResinLayout
 Layouts-Profile-Resin
 
+Just testing the layout inside my own project
 
-![alt tag](http://wsdesign.in/home/detail/7)
+Credits to : http://wsdesign.in/home/detail/7
 
 
